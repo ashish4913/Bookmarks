@@ -1,0 +1,6 @@
+virtual/
+*/migrations/*
+*/__pycache__/*
+.vscode/*
+db.sqlite3
+media/
